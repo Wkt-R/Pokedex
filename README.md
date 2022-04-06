@@ -1,6 +1,6 @@
 # Pokedex
 
-* Project was mainly made as my recruitment tast for VirtusLab.
+* Project was mainly made as my recruitment task for VirtusLab.
 
 ## Description
 
