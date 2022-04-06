@@ -33,7 +33,9 @@ function Root() {
           img: data.sprites.front_default,
           type: data.types,
           ability: data.abilities,
-          moves: data.moves
+          moves: data.moves,
+          height: data.height,
+          weight: data.weight
         }
       });
       sendData(pokemon)
