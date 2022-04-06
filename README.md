@@ -20,7 +20,7 @@
 npm start
 ```
 
-# Just in case, if you wanted to see final product without making new project, installing all the libraries and cloning repo you can see it here:
+### Just in case, if you wanted to see final product without making new project, installing all the libraries and cloning repo you can see it here:
 ```
 https://pokedex-three-livid.vercel.app
 ```
