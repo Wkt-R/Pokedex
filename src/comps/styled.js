@@ -42,7 +42,7 @@ export const PokemonDesc = styled.div`
 `
 
 export const PokemonInfo = styled.h4`
-  color: ${textColor};
+  color: aliceblue;
 `
 
 export const PokemonPopup = styled.div`
