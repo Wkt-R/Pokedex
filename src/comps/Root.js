@@ -79,6 +79,8 @@ function Root() {
           <div style={{ width: 250, height: 100, overflowY: 'scroll', color: 'aliceblue', marginLeft: '50%', transform: 'translateX(-50%)' }}>
             {selectedPokemon.moves.map((el, i) => <p style={{ margin: 3 }} key={`move-${i}`}>{el.move.name}</p>)}
           </div>
+          <PokemonInfo>Wzrost: {selectedPokemon.height}</PokemonInfo>
+          <PokemonInfo>Waga: {selectedPokemon.weight}</PokemonInfo>
           <CloseButton onClick={() => { setSelectedPokemon(undefined) }}> ZAMKNIJ </CloseButton>
         </PokemonPopup>
         }
